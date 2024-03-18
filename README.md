@@ -12,3 +12,6 @@ And version of Library for the code
 
 
 ![Screenshot 2024-03-18 215347](https://github.com/wiwidnadw/Pick-image-Android-studio-Java/assets/63993989/1567337a-899a-4fe0-b1ea-83142797181c)
+
+If using this SDK version, but using latest version of library (example **implementation 'androidx.appcompat:appcompat:1.6.1'**)
+Error message will appear on your project. So consider your version of code, also SDK
