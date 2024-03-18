@@ -15,3 +15,9 @@ And version of Library for the code
 
 If using this SDK version, but using latest version of library (example **implementation 'androidx.appcompat:appcompat:1.6.1'**)
 Error message will appear on your project. So consider your version of code, also SDK
+
+
+This is tutorial to build this app https://youtu.be/ELTNvia-rr0
+
+Youtube : https://www.youtube.com/digitalneering
+Line : wiwidnadw
